@@ -9,6 +9,7 @@
 body {
 	font-family: 'Kalam', cursive;
 	margin: 0px;
+	background-color: var(--off-white);
 }
 
 hr {
@@ -203,7 +204,7 @@ hr {
 	overflow: scroll;
 }
 
-footer p{
+footer p {
 	max-width: 600px;
 	margin: auto;
 }
